@@ -16,6 +16,18 @@ I provisioned a Dev environment with Terraform, migrated a sample investment app
 - [CI/CD pipeline and Argo CD rollout](https://github.com/Bektursun3005/projectx-ecs-to-eks-case-study/blob/main/cases/ci-cd.md)
 - [ECS and EKS migration rehearsal](https://github.com/Bektursun3005/projectx-ecs-to-eks-case-study/blob/main/cases/ecs-eks-comparison.md)
 
+## AI projects
+
+- **Chicago Chauffeur Exam Simulator.** I used an AI assistant to turn my
+  study packet into a browser-based simulator with 154 questions, a practice
+  mode, and a timed exam mode. I used it to prepare and passed the exam.
+- **DevOps Quiz Bot.** I wrote a Python script that uses Claude to generate
+  review questions from class slides and posts them to my Telegram channel.
+
+I keep the source study materials and question sets private.
+
+[More about my work](https://bektursun3005.github.io)
+
 ## Kalpak Store · Co-founder
 
 Osh, Kyrgyzstan · Launched in 2023
