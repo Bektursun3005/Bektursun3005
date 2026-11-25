@@ -44,3 +44,11 @@ Kyrgyzstan · August 2006–January 2010
 - **SME Lending Specialist** · August 2006–December 2008
 
 I worked with small businesses on loan applications, credit assessment, and repayment monitoring.
+
+### Selected professional training
+
+- **Financial Literacy Train-the-Trainer Program** · Bishkek, Kyrgyzstan · 2019
+- **Women Entrepreneurs and Information and Communication Technologies** · Haifa, Israel · 2014
+- **International Programme in Banking and Finance (Risk Management)** · Pune, India · 2018
+
+[View professional training and management workshops](professional-training.md)
