@@ -1,6 +1,6 @@
 # Bektursun Moldaliev
 
-Chicago, Illinois, USA
+Chicago, Illinois, USA · Contact: [bekm.devops@gmail.com](mailto:bekm.devops@gmail.com)
 
 I’m a DevOps practitioner in Chicago. I combine hands-on cloud engineering with experience co-founding a retail business and managing regional microfinance operations in Kyrgyzstan.
 
