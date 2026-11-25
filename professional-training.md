@@ -6,6 +6,7 @@ These programs complement my work in small-business lending, microfinance, and b
 
 | Program | Organization | Location and year |
 | --- | --- | --- |
+| [Certified Expert in Microfinance](https://certificates.frankfurt-school.de/f29e8e8c-38f5-4b1a-bfb9-c3181e8702fa) | Frankfurt School of Finance & Management | Issued November 4, 2021 |
 | Financial Literacy Train-the-Trainer Program | National Bank of the Kyrgyz Republic, GIZ, and the Association of Microfinance Organizations | Bishkek, Kyrgyzstan · 2019 |
 | Women Entrepreneurs and Information and Communication Technologies | Golda Meir Mount Carmel International Training Center and MASHAV, in cooperation with UNECE | Haifa, Israel · 2014 |
 | International Programme in Banking and Finance (Risk Management) | National Institute of Bank Management | Pune, India · 2018 |

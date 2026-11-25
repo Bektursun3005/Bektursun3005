@@ -59,6 +59,7 @@ I worked with small businesses on loan applications, credit assessment, and repa
 
 ### Selected professional training
 
+- **Certified Expert in Microfinance** · Frankfurt School of Finance & Management · 2021 · [Verify credential](https://certificates.frankfurt-school.de/f29e8e8c-38f5-4b1a-bfb9-c3181e8702fa)
 - **Financial Literacy Train-the-Trainer Program** · Bishkek, Kyrgyzstan · 2019
 - **Women Entrepreneurs and Information and Communication Technologies** · Haifa, Israel · 2014
 - **International Programme in Banking and Finance (Risk Management)** · Pune, India · 2018
