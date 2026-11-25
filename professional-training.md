@@ -30,6 +30,15 @@ I attended these workshops through Business Professionals Network.
 Select any photo to open the full-size certificate.
 
 <details>
+<summary><strong>Certified Expert in Microfinance</strong> · Frankfurt School of Finance &amp; Management · 2021</summary>
+
+<p><a href="certificate-photos/frankfurt-school-microfinance.jpeg"><img src="certificate-photos/frankfurt-school-microfinance.jpeg" alt="Certified Expert in Microfinance certificate from Frankfurt School" width="540"></a><br>Issued November 4, 2021</p>
+
+[Verify the digital credential](https://certificates.frankfurt-school.de/f29e8e8c-38f5-4b1a-bfb9-c3181e8702fa)
+
+</details>
+
+<details>
 <summary><strong>Financial Literacy Train-the-Trainer Program</strong> · Bishkek, Kyrgyzstan · 2019</summary>
 
 <p><a href="certificate-photos/financial-literacy-training.jpeg"><img src="certificate-photos/financial-literacy-training.jpeg" alt="Certificate of participation in the 72-hour training" width="540"></a><br>Certificate of participation in the 72-hour training</p>
