@@ -13,6 +13,9 @@ I provisioned a Dev environment with Terraform, migrated a sample investment app
 
 [Read the Project X case study](https://github.com/Bektursun3005/projectx-ecs-to-eks-case-study)
 
+- [CI/CD pipeline and Argo CD rollout](https://github.com/Bektursun3005/projectx-ecs-to-eks-case-study/blob/main/cases/ci-cd.md)
+- [ECS and EKS migration rehearsal](https://github.com/Bektursun3005/projectx-ecs-to-eks-case-study/blob/main/cases/ecs-eks-comparison.md)
+
 ## Kalpak Store · Co-founder
 
 Osh, Kyrgyzstan · Launched in 2023
