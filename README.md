@@ -24,7 +24,7 @@ I provisioned a Dev environment with Terraform, migrated a sample investment app
 - **DevOps Quiz Bot.** I wrote a Python script that uses Claude to generate
   review questions from class slides and posts them to my Telegram channel.
 
-I keep the source study materials and question sets private.
+I keep the original study materials and question sets private out of respect for the school's intellectual property.
 
 [More about my work](https://bektursun3005.github.io)
 
